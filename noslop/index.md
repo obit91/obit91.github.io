@@ -1,54 +1,60 @@
 ---
 title: "No Slop"
-description: "Say what you mean. Don't forward me a wall of AI text."
+description: "Share your intent, not the AI's output — it saves both of you time."
 ---
 
 # No Slop
 
-Please don't send me AI-generated walls of text.
+## TL;DR
+
+When you message someone, **send your actual thought** — the question, the lean, the uncertainty — rather than a wall of AI-generated text. It keeps communication human and saves everyone's time.
 
 ---
 
 ## What's happening
 
-You had a thought. You asked an AI to expand it into 400 words. You pasted that into a message to me.
+You have something to share or a question to ask. You use AI to flesh it out — a thorough summary, a balanced pros-and-cons, a polished draft. It feels generous: *more detail = more helpful*, right?
 
-Now I have to decode what you actually wanted — buried somewhere in there.
+Here's why it backfires. The person on the other end now has to read the whole thing, extract your actual point, and figure out what you're asking of them. You've shifted the work of understanding onto them.
 
-That's not communication. That's outsourcing the work of thinking to me.
-
----
-
-## The rule
-
-> **Send your intent. Not the output.**
+And here's the awkward part: they could generate that same block of text themselves in ten seconds. Forwarding it doesn't add information — it adds friction. What only you can provide is your intent.
 
 ---
 
-## Don't / Do
+## An example
 
-| Don't | Do |
-|---|---|
-| Paste a five-paragraph AI summary | Write the one thing you need |
-| Forward a generated wall of pros/cons | Tell me which option you're leaning toward |
-| Send a polished AI draft "for my thoughts" | Say "I'm stuck on X, thoughts?" |
+```
+You: Hey, I asked an AI about whether to use REST or GraphQL for the new API.
+     [pastes 500-word generated summary of trade-offs, history, and "it depends"]
+```
 
----
+The other person now has to parse all that to figure out what you actually need. Feedback? A decision? Just FYI?
 
-## Why it matters
+Instead, try:
 
-Your intent is the message. Volume isn't clarity — it's noise.
+```
+You: We're choosing between REST and GraphQL for the new API.
+     I'm leaning REST — simpler for what we're building. Am I missing anything?
+```
 
-I can generate that same slop myself in ten seconds. When you forward it to me, you're not saving time. You're spending mine.
-
----
-
-## The kind version
-
-None of this is about AI being bad. Use it however you want.
-
-This is about human-to-human communication. When you talk to me, talk to me. Short is fine. Incomplete is fine. Thinking out loud is fine.
+Same topic. One sentence of context, one sentence of intent. They can respond immediately and usefully.
 
 ---
 
-*Inspired by [nohello.net](https://nohello.net) — which makes a similar point about "hello" with no follow-up.*
+## What to send instead
+
+If you used AI to think something through, that's great. Then share what you concluded — or what you're still unsure about. That part is yours, and it's exactly what the other person needs.
+
+If it feels too sparse, you can always add a little:
+
+> "I've been looking into X. My take is [Y] because [brief reason]. Does that track?"
+
+Or simply:
+
+> "Quick question about X — [one sentence]. Thoughts?"
+
+Short is fine. Incomplete is fine. Thinking out loud is fine. The goal is that it's *you* talking to *them*.
+
+---
+
+*Inspired by [sbmueller.de/nohello](https://sbmueller.de/nohello/) — which makes a similar point about "Hello" with no follow-up.*
