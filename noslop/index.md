@@ -14,9 +14,6 @@ layout: default
 
 **Them:**
 
-<details markdown="1">
-<summary>Great question! Here's a comprehensive overview… <em>(…more)</em></summary>
-
 > Migrating a JavaScript project to TypeScript is a significant architectural decision with real trade-offs that depend on multiple factors including team size, project maturity, timeline constraints, and long-term maintenance goals. TypeScript is a statically typed superset of JavaScript developed by Microsoft that compiles down to plain JavaScript and is fully compatible with existing JS ecosystems.
 >
 > The primary benefits of TypeScript include compile-time type checking, improved IDE support (autocomplete, inline documentation, refactoring tools), and reduced likelihood of certain classes of runtime errors. For larger codebases or teams with multiple contributors, these benefits tend to compound over time as the surface area of change grows.
@@ -26,8 +23,6 @@ layout: default
 > Build tooling also becomes more complex. You'll need to configure `tsconfig.json`, update bundler settings, and potentially adjust lint rules. Third-party libraries may have incomplete or outdated type definitions, requiring `@types/` packages or custom `d.ts` declarations.
 >
 > In summary: TypeScript tends to pay for itself in projects over a certain size and complexity threshold, especially those expected to grow or be touched by multiple developers over time. For smaller, stable, or short-lived projects the overhead may outweigh the benefit. Evaluate based on your team's familiarity and the expected lifespan of the codebase.
-
-</details>
 
 ---
 
