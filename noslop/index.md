@@ -52,11 +52,11 @@ The right move: use AI to think faster, then send your conclusion. One sentence.
 
 This isn't only a chat problem. Anywhere people are expected to think and instead paste — the same disrespect lands on the reader.
 
-- **Specs and PRDs.** A generated wall of requirements nobody actually decided on — reads comprehensive, commits to nothing.
-- **Design docs.** Options listed exhaustively with no recommendation; the author dodged the actual design decision.
-- **Meeting summaries.** An AI transcript-dump that restates everything and surfaces nothing — no decisions, no owners, no next steps.
-- **Bug investigations.** A plausible-sounding generated theory pasted as if confirmed, with no evidence the person actually checked.
-- **Pull request descriptions.** Auto-generated change summaries that list what changed but never say why — the one thing only the author could tell you.
+- **Specs and PRDs.** Generated bulk can fill pages without any of the decisions those pages are supposed to capture.
+- **Design docs.** Easy to mistake output for analysis — a lot of options listed, little judgment applied.
+- **Meeting summaries.** Where AI-processed text can substitute for someone actually figuring out what mattered.
+- **Bug investigations.** A natural place for generated plausibility to stand in for actual investigation.
+- **Pull request descriptions.** Where auto-generated text can fill the space without the author's own reasoning.
 
 The medium changes. The problem doesn't.
 
