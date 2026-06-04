@@ -1,20 +1,20 @@
 ---
 title: "No Slop"
 description: "If they wanted AI output, they'd have asked the AI."
+layout: default
 ---
 
 # No Slop
 
 **If they wanted AI output, they'd have asked the AI themselves.**
 
+Someone asks you a question. You run it through an AI — that's fine, that's what the tool is for. Then you paste the result into the chat and hit send. That's the mistake.
+
 ---
 
-**You:** Should we migrate this project to TypeScript?
+*Question: should we migrate this project to TypeScript?*
 
-**Them:**
-
-<details markdown="1">
-<summary>Great question! Here's a comprehensive overview… <em>(…more)</em></summary>
+**The output:**
 
 > Migrating a JavaScript project to TypeScript is a significant architectural decision with real trade-offs that depend on multiple factors including team size, project maturity, timeline constraints, and long-term maintenance goals. TypeScript is a statically typed superset of JavaScript developed by Microsoft that compiles down to plain JavaScript and is fully compatible with existing JS ecosystems.
 >
@@ -26,36 +26,25 @@ description: "If they wanted AI output, they'd have asked the AI."
 >
 > In summary: TypeScript tends to pay for itself in projects over a certain size and complexity threshold, especially those expected to grow or be touched by multiple developers over time. For smaller, stable, or short-lived projects the overhead may outweigh the benefit. Evaluate based on your team's familiarity and the expected lifespan of the codebase.
 
-</details>
+**The answer:**
+
+Yes — the codebase is big enough now that the type errors will pay back the migration cost inside a month.
 
 ---
 
-**You:** Should we migrate this project to TypeScript?
+## Why it matters
 
-**Them:** Yes — the codebase is big enough now that the type errors will pay back the migration cost inside a month.
+The person asked *you* — not for a summary of the internet, but for your read. They know you: your context, your view of this codebase, the things only you would weigh. The five-paragraph output doesn't have any of that. It lists considerations and refuses to land anywhere. You knew where to land.
 
----
+**Pasting AI output is not answering. It's offloading.**
 
-## What you actually sent
+When you send the wall of text:
 
-Not a response. A redirect.
+- **You move your work onto them.** They have to skim 500 words to find the sentence you could have led with.
+- **It signals you didn't form a view.** Someone who knows their answer says it in a sentence. A scroll says you either don't know where you land, or didn't respect the other person enough to figure it out. That's not just unhelpful — it's unprofessional.
+- **You close the conversation.** A wall of text has no seams. Nothing to push back on, nothing to follow up. A one-sentence answer opens a dialogue; a wall ends it.
 
-Pasting AI output into a conversation isn't answering — it's opting out of answering. You handed the question to a machine, copy-pasted the result, and hit send. Nobody wrote that 500-word essay in Slack.
-
-The person asked *you*. They wanted your context, your read, your one sentence. What they got was a word processor wearing your name.
-
----
-
-## What gets lost
-
-**Your judgment.**
-They asked you because they wanted *your* take — your context, your call. Forwarding generated text isn't an answer. It's an abdication.
-
-**Their time.**
-They now have to read 600 words to find the sentence you should've led with. You offloaded your summarization work onto them. That's not helping. That's moving the problem.
-
-**The conversation.**
-A wall of text has no seams to grab. They can't push back, ask a follow-up, or disagree with a specific point — there are forty points. It doesn't open a dialogue. It buries one.
+The right move: use AI to think faster, then send your conclusion. One sentence. Yours.
 
 ---
 
