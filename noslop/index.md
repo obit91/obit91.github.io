@@ -1,12 +1,12 @@
 ---
 title: "No Slop"
-description: "Send the point, not the pile."
+description: "Less is more."
 layout: default
 ---
 
 # No Slop
 
-**Send the point, not the pile.**
+**Less is more.**
 
 Someone asks you a question. Using AI to think it through is fine. Pasting the whole machine answer back at them isn't.
 
