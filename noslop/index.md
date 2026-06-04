@@ -26,7 +26,7 @@ Someone asks you a question. You run it through an AI — that's fine, that's wh
 >
 > In summary: TypeScript tends to pay for itself in projects over a certain size and complexity threshold, especially those expected to grow or be touched by multiple developers over time. For smaller, stable, or short-lived projects the overhead may outweigh the benefit. Evaluate based on your team's familiarity and the expected lifespan of the codebase.
 
-*You didn't read that before you hit send. If even you skipped it — nobody will.*
+*Be honest — you didn't read that. Nobody does.*
 
 **The answer:**
 
