@@ -1,12 +1,12 @@
 ---
 title: "No Slop"
-description: "They asked you. Don't forward the machine."
+description: "The shorter it is, the more it's yours."
 layout: default
 ---
 
 # No Slop
 
-**They asked you. Don't forward the machine.**
+**The shorter it is, the more it's yours.**
 
 Someone asks you a question. You run it through an AI — that's fine, that's what the tool is for. Then you paste the result into the chat and hit send. That's the mistake.
 
