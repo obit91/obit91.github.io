@@ -1,14 +1,14 @@
 ---
 title: "No Slop"
-description: "The shorter it is, the more it's yours."
+description: "Send the point, not the pile."
 layout: default
 ---
 
 # No Slop
 
-**The shorter it is, the more it's yours.**
+**Send the point, not the pile.**
 
-Someone asks you a question. You run it through an AI — that's fine, that's what the tool is for. Then you paste the result into the chat and hit send. That's the mistake.
+Someone asks you a question. Using AI to think it through is fine. Pasting the whole machine answer back at them isn't.
 
 ---
 
@@ -30,21 +30,21 @@ Someone asks you a question. You run it through an AI — that's fine, that's wh
 
 **The answer:**
 
-Yes — the codebase is big enough now that the type errors will pay back the migration cost inside a month.
+Yes — migrate incrementally, starting with high-churn files; our refactors are already costing more than the type work will.
 
 ---
 
 ## Why it matters
 
-There's a real person talking to you. They already know what you know and what you don't — that's why they came to you. They're not asking you to send them how the internet works, or a list of considerations they could have generated themselves. They want to know what *you* think.
+A real person asked for your judgment. Not a search result. Not a balanced essay. Your answer is the part where you decide what all the context means.
 
-**Pasting AI output is not answering. It's skipping your part and handing them the slop.**
+**Pasting AI output isn't answering. It's skipping your part and handing them the slop.**
 
 When you send the wall of text:
 
 - **You make them do your work.** They have to skim 500 words to find the sentence you could have led with.
-- **It signals you didn't form a view — and it doesn't respect their time.** Someone who knows the answer says it in a sentence. A scroll says you didn't bother. That's unprofessional. It's like letting AI write your PR, skipping the review, and shipping it — except now it's them reviewing your slop.
-- **They'll lose your point — and lose respect for you.** Your actual answer is buried in the wall. What they remember isn't your insight — it's the effort it cost them to look for it.
+- **You didn't land anywhere — and it shows.** Their time was cheaper than yours. It's the review version of shipping an AI-written PR without reading it, then asking someone else to find the problems.
+- **Your point gets weaker while your credibility takes the hit.** The useful sentence is buried, and what they remember is the chore.
 
 The right move: use AI to think faster, then send your conclusion. One sentence. Yours.
 
