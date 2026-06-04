@@ -41,7 +41,7 @@ The person asked *you* — not for a summary of the internet, but for your read.
 When you send the wall of text:
 
 - **You move your work onto them.** They have to skim 500 words to find the sentence you could have led with.
-- **You erase your context.** The AI doesn't know this team, this deadline, this codebase. You do. The useful part of your answer is exactly what only you could say — and it's missing.
+- **It signals you didn't form a view.** Someone who knows their answer says it in a sentence. A scroll says you either don't know where you land, or didn't respect the other person enough to figure it out. That's not just unhelpful — it's unprofessional.
 - **You close the conversation.** A wall of text has no seams. Nothing to push back on, nothing to follow up. A one-sentence answer opens a dialogue; a wall ends it.
 
 The right move: use AI to think faster, then send your conclusion. One sentence. Yours.
