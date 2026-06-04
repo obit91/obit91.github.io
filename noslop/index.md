@@ -66,4 +66,4 @@ The medium changes. The problem doesn't.
 
 ---
 
-*Inspired by [nohello](https://aka.ms/nohello) and [no slop grenade](https://noslopgrenade.com/).*
+*Inspired by [nohello](https://aka.ms/nohello).*
