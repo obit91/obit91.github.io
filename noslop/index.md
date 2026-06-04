@@ -48,8 +48,22 @@ The right move: use AI to think faster, then send your conclusion. One sentence.
 
 ---
 
+## Where this shows up
+
+This isn't only a chat problem. Anywhere people are expected to think and instead paste — the same disrespect lands on the reader.
+
+- **Specs and PRDs.** A generated wall of requirements nobody actually decided on — reads comprehensive, commits to nothing.
+- **Design docs.** Options listed exhaustively with no recommendation; the author dodged the actual design decision.
+- **Meeting summaries.** An AI transcript-dump that restates everything and surfaces nothing — no decisions, no owners, no next steps.
+- **Bug investigations.** A plausible-sounding generated theory pasted as if confirmed, with no evidence the person actually checked.
+- **Pull request descriptions.** Auto-generated change summaries that list what changed but never say why — the one thing only the author could tell you.
+
+The medium changes. The problem doesn't.
+
+---
+
 > **Use AI to sharpen your thinking. Send the sharpened thought.**
 
 ---
 
-*Inspired by [nohello](https://nohello.net) and [no slop grenade](https://noslopgrenade.com/).*
+*Inspired by [nohello](https://aka.ms/nohello) and [no slop grenade](https://noslopgrenade.com/).*
