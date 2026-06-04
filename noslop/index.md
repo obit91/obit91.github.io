@@ -62,7 +62,7 @@ The medium changes. The problem doesn't.
 
 ---
 
-> **Use AI to sharpen your thinking. Send the sharpened thought.**
+> **Think with AI. Send your intent.**
 
 ---
 
