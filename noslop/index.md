@@ -1,14 +1,14 @@
 ---
 title: "No Slop"
-description: "If they wanted AI output, they'd have asked the AI."
+description: "Make your point before my AI does."
 layout: default
 ---
 
 # No Slop
 
-**If they wanted AI output, they'd have asked the AI themselves.**
+**Make your point before my AI does.**
 
-Someone asks you a question. You run it through an AI — that's fine, that's what the tool is for. Then you paste the result into the chat and hit send. That's the mistake.
+Someone asks you a question. Using AI to think it through is fine. Pasting the whole machine answer back at them isn't.
 
 ---
 
@@ -26,30 +26,44 @@ Someone asks you a question. You run it through an AI — that's fine, that's wh
 >
 > In summary: TypeScript tends to pay for itself in projects over a certain size and complexity threshold, especially those expected to grow or be touched by multiple developers over time. For smaller, stable, or short-lived projects the overhead may outweigh the benefit. Evaluate based on your team's familiarity and the expected lifespan of the codebase.
 
+*Be honest — you didn't read that. Nobody does.*
+
 **The answer:**
 
-Yes — the codebase is big enough now that the type errors will pay back the migration cost inside a month.
+Yes — migrate incrementally, starting with high-churn files; our refactors are already costing more than the type work will.
 
 ---
 
 ## Why it matters
 
-The person asked *you* — not for a summary of the internet, but for your read. They know you: your context, your view of this codebase, the things only you would weigh. The five-paragraph output doesn't have any of that. It lists considerations and refuses to land anywhere. You knew where to land.
+A real person asked for your judgment. Not a search result. Not a balanced essay. Your answer is the part where you decide what all the context means.
 
-**Pasting AI output is not answering. It's offloading.**
+**Pasting AI output isn't answering. It's skipping your part and handing them the slop.**
 
 When you send the wall of text:
 
-- **You move your work onto them.** They have to skim 500 words to find the sentence you could have led with.
-- **It signals you didn't form a view.** Someone who knows their answer says it in a sentence. A scroll says you either don't know where you land, or didn't respect the other person enough to figure it out. That's not just unhelpful — it's unprofessional.
-- **You close the conversation.** A wall of text has no seams. Nothing to push back on, nothing to follow up. A one-sentence answer opens a dialogue; a wall ends it.
+- **You make them do your work.** They have to skim 500 words to find the sentence you could have led with.
+- **You didn't land anywhere — and it shows.** Their time was cheaper than yours. It's the review version of shipping an AI-written PR without reading it, then asking someone else to find the problems.
+- **Your point gets weaker while your credibility takes the hit.** The useful sentence is buried, and what they remember is the chore.
 
 The right move: use AI to think faster, then send your conclusion. One sentence. Yours.
 
 ---
 
-> **Use AI to sharpen your thinking. Send the sharpened thought.**
+## Where this shows up
+
+This isn't only a chat problem. Anywhere people are expected to think and instead paste — the same disrespect lands on the reader.
+
+- **Specs and PRDs.** Generated bulk can fill pages without any of the decisions those pages are supposed to capture.
+- **Design docs.** Easy to mistake output for analysis — a lot of options listed, little judgment applied.
+- **Bug investigations.** A natural place for generated plausibility to stand in for actual investigation.
+
+The medium changes. The problem doesn't.
 
 ---
 
-*Inspired by [nohello](https://nohello.net) and [no slop grenade](https://noslopgrenade.com/).*
+> **If they need AI to decode what you sent, you didn't answer. You assigned homework.**
+
+---
+
+*Inspired by [nohello](https://aka.ms/nohello).*
