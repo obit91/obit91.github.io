@@ -1,12 +1,12 @@
 ---
 title: "No Slop"
-description: "They asked you. A relay isn't an answer."
+description: "They asked you. Don't forward the machine."
 layout: default
 ---
 
 # No Slop
 
-**They asked you. A relay isn't an answer.**
+**They asked you. Don't forward the machine.**
 
 Someone asks you a question. You run it through an AI — that's fine, that's what the tool is for. Then you paste the result into the chat and hit send. That's the mistake.
 
