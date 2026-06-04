@@ -1,12 +1,12 @@
 ---
 title: "No Slop"
-description: "Less is more."
+description: "Make your point before my AI does."
 layout: default
 ---
 
 # No Slop
 
-**Less is more.**
+**Make your point before my AI does.**
 
 Someone asks you a question. Using AI to think it through is fine. Pasting the whole machine answer back at them isn't.
 
