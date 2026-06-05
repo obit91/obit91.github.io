@@ -21,7 +21,7 @@ I earned a B.Sc. in Electrical and Computer Engineering from The Hebrew Universi
 
 ## Personal projects
 
-A side project of mine, [syn.news](https://syn.news), is a news aggregator that clusters multiple sources for each story and shows how balanced or biased the coverage is across the political spectrum. It is built to make it easier to see the fuller picture, not just one outlet's slant.
+A side project of mine, [syn.news](https://syn.news), is a news aggregator that clusters multiple sources for each story and shows how balanced or biased the coverage is across the political spectrum. It is built to make it easier to see the fuller picture beyond any single outlet's perspective.
 
 ## Find me
 
