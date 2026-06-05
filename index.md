@@ -1,6 +1,6 @@
 ---
 title: "Ohad Beltzer"
-description: "Principal Software Engineering Manager at Microsoft, leading engineering on Azure Marketplace from Israel."
+description: "Principal Software Engineering Manager at Microsoft, leading Azure Marketplace engineering from Israel."
 layout: default
 ---
 
@@ -11,12 +11,17 @@ I'm a Principal Software Engineering Manager at Microsoft, based in Israel, wher
 ## What I do
 
 - Lead engineering teams and software delivery for Azure Marketplace.
+- Grow engineers and teams through mentorship, clear standards, and a culture that raises the engineering bar.
 - Build community through .NET Bond IL, a .NET community inside Microsoft Israel, and help organize and host .NET Conf Israel.
-- Speak and write about .NET, C#, performance, AI, engineering culture, and community.
+- Stay close to emerging technologies and the AI shift, turning new ideas into practical engineering advantage.
 
 ## Background
 
-I studied Electrical and Computer Engineering at Tel Aviv University and earned an MBA from The Hebrew University of Jerusalem, with earlier roles at Check Point and the IDF C4I & Cyber Security Directorate.
+I earned a B.Sc. in Electrical and Computer Engineering from The Hebrew University of Jerusalem (HUJI) and an MBA from Tel Aviv University (TAU), with earlier roles at Check Point and the IDF C4I & Cyber Security Directorate.
+
+## Personal projects
+
+A side project of mine, [syn.news](https://syn.news), is a news aggregator that clusters multiple sources for each story and shows how balanced or biased the coverage is across the political spectrum. It is built to make it easier to see the fuller picture, not just one outlet's slant.
 
 ## Find me
 
