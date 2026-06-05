@@ -1,18 +1,22 @@
 ---
 title: "Ohad Beltzer"
-description: "Electrical and Computer Engineer, software engineer at Microsoft, based in Israel."
+description: "Principal Software Engineering Manager at Microsoft, leading engineering on Azure Marketplace from Israel."
 layout: default
 ---
 
 # Ohad Beltzer
 
-I'm an Electrical and Computer Engineer and a software engineer at Microsoft, based in Israel. I enjoy coding and building practical software.
+I'm a Principal Software Engineering Manager at Microsoft, based in Israel, where I lead software engineering for Azure Marketplace. I care about building practical software, improving performance, and helping engineers do their best work.
 
-## What I work on
+## What I do
 
-- Engineering-minded software projects, with an interest in systems that are useful and maintainable.
-- Projects and experiments across Java, Spring, Tomcat, REST, and Android.
-- Code, tools, and small builds that turn ideas into working software.
+- Lead engineering teams and software delivery for Azure Marketplace.
+- Build community through .NET Bond IL, a .NET community inside Microsoft Israel, and help organize and host .NET Conf Israel.
+- Speak and write about .NET, C#, performance, AI, engineering culture, and community.
+
+## Background
+
+I studied Electrical and Computer Engineering at Tel Aviv University and earned an MBA from The Hebrew University of Jerusalem, with earlier roles at Check Point and the IDF C4I & Cyber Security Directorate.
 
 ## Find me
 
